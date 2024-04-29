@@ -35,7 +35,7 @@ export default function Main() {
           color={"blue.400"}
           display={["none", "block", "block", "block", "block"]}
         >
-          Expense Tracker Rubesh
+          Rubesh Expense Tracker 
         </Heading>
         <Flex alignItems={"center"}>
           <Button onClick={onOpen} bg={"blue.300"} color={"black"} ml={"4"}>
